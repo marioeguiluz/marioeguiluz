@@ -1,4 +1,4 @@
-## Welcome! <img src="https://user-images.githubusercontent.com/3911039/113623796-c025f900-9656-11eb-929e-17d3c22357ff.gif" width="30px"> <img src="https://img.shields.io/badge/Last Update-April'2021-green" />
+## Welcome! <img src="https://user-images.githubusercontent.com/3911039/113623796-c025f900-9656-11eb-929e-17d3c22357ff.gif" width="30px" alt="wave gif"> <img src="https://img.shields.io/badge/Last Update-April'2021-green" />
 
 
 
@@ -26,8 +26,13 @@
 - 🇪🇸 I am spanish btw!
 
 ---
-_"It was a bright cold day in April, and the clocks were striking thirteen."_
+
+> _"It was a bright cold day in April, and the clocks were striking thirteen."_
+> <p align="center">
+>   <img src="https://media.giphy.com/media/WQrVY21ccXRFYAjCCh/giphy.gif" alt="city gif" width="300px" />
+> </p>
+
+
 ---
 
-
-PS: This readme is inspired by this [one by alexDidLoad](https://github.com/alexDidLoad). Kudos to him!
+PS: This readme is inspired by [alexDidLoad's one](https://github.com/alexDidLoad). Kudos to him!
