@@ -8,8 +8,13 @@
 - 🐝 I love doing my bits with `Solidity` and smart contracts
 - 🤖 I want to expand my Certification in `Machine Learning` @ Stanford with more theory and some hands-on project (ping me!)
 - 📚 I enjoy writing technical books
-  - [Mastering iOS14](https://www.amazon.com/dp/B08M6DYXBQ)
-  - [Swift Data Structures and Algorithms](https://www.amazon.com/dp/B01LSWPJCW) 
+> <p>
+>   <a href="https://www.amazon.com/dp/B08M6DYXBQ"><img src="https://m.media-amazon.com/images/I/71kyWptDDdL._AC_UY436_QL65_.jpg" alt="mastering iOS 14" width="150px" /></a>
+>  <a href="https://www.amazon.com/dp/B01LSWPJCW"><img src="https://m.media-amazon.com/images/I/81VNCbQgbwL._AC_UY436_QL65_.jpg" alt="swift book" width="155px" /> > > </a>
+> </p>
+
+- [Mastering iOS14](https://www.amazon.com/dp/B08M6DYXBQ)
+- [Swift Data Structures and Algorithms](https://www.amazon.com/dp/B01LSWPJCW) 
 
 
 ### What did I do before?
