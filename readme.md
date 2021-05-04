@@ -29,7 +29,7 @@
 ### How to connect with me?
 - 🙌🏻 Say _hi_ and add me on my [LinkedIn](https://www.linkedin.com/in/marioeguiluzalebicto/)
 - 👾 Dare to challenge me @ Fifa or Warzone!
-- 🇪🇸 I am spanish btw!
+- 🐦 Connect on my [Twitter](https://twitter.com/marioeguiluz)
 
 ---
 
