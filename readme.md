@@ -4,7 +4,7 @@
 
 ### Who am I?
 - 👨‍💻 I'm the CTO @ [Wanted](https://www.getwanted.com) 
-- ⭐️ I’m currently working with `Reactjs` , `Python`, and `Swift`. Also growth-hacking methods to help our startup (~~top secret sorry!~~) 
+- ⭐️ I’m currently working with `Reactjs` , `Solidity`, and `Swift`. Also growth-hacking methods to help our startup (~~top secret sorry!~~) 
 - 🐝 I love doing my bits with `Solidity` and smart contracts
 - 🤖 I want to expand my Certification in `Machine Learning` @ Stanford with more theory and some hands-on project (ping me!)
 - 📚 I enjoy writing technical books
